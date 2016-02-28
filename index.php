@@ -32,7 +32,7 @@
   <img src='img/11.png'>
   <img src='img/12.png'>
 </body>
-<?php>
+<?php
   echo '<p></p>';
-</?>
+?>
 <html>
