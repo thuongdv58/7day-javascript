@@ -8,29 +8,20 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-  <img src='img/6-connect cell.png'>
-  <img src='img/Screenshot from 2016-02-28 20:21:27.png'>
-  <img src='img/Screenshot from 2016-02-28 20:21:58.png'>
-  <img src='img/Screenshot from 2016-02-28 20:36:49.png'>
-  <img src='img/Screenshot from 2016-02-28 20:36:56.png'>
-  <img src='img/Screenshot from 2016-02-28 20:37:03.png'>
-  <img src='img/Screenshot from 2016-02-28 20:37:10.png'>
-  <img src='img/Screenshot from 2016-02-28 20:45:32.png'>
-  <img src='img/Screenshot from 2016-02-28 20:45:36.png'>
-  <img src='img/Screenshot from 2016-02-28 20:45:40.png'>
-  <img src='img/Screenshot from 2016-02-28 20:45:54.png'>
-  <img src='img/1.png'>
-  <img src='img/2.png'>
-  <img src='img/3.png'>
-  <img src='img/4.png'>
-  <img src='img/5.png'>
-  <img src='img/6.png'>
-  <img src='img/7.png'>
-  <img src='img/8.png'>
-  <img src='img/9.png'>
-  <img src='img/10.png'>
-  <img src='img/11.png'>
-  <img src='img/12.png'>
+<div>
+  <h5>javaScript Week 1</h5>
+  <img src="./img/12.png">
+  <img src="./img/21.png">
+  <img src="./img/23.png">
+</div>
+<div>
+  <h5>javaScript Week 2</h5>
+  <img src="./img/first.png">
+  <img src="./img/2nd.png">
+  <img src="./img/3th.png">
+  <img src="./img/4th.png">
+  <img src="./img/5th.png">
+</div>
 </body>
 <?php
   echo '<p></p>';
